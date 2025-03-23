@@ -1,7 +1,7 @@
 [project]
 name = "pyannoy"
-version = "0.1.0"
-description = "Add your description here"
+version = "1.0.0"
+description = "An annoying Python package"
 readme = "README.md"
 authors = [
     { name = "Nguyen Son Linh", email = "linhns59@gmail.com" }
