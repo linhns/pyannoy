@@ -1,2 +1,2 @@
 def main() -> None:
-    print("Hello from pyannoy!")
+    print("Annoying you from pyannoy!")
